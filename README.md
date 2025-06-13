@@ -1,14 +1,16 @@
-👋 Hello! I’m [Your Name] – Passionate about Data Science and Machine Learning  
-Hi! I’m [Your Name], an aspiring [Data Scientist / Machine Learning Engineer / Data Analyst] passionate about machine learning, natural language processing, and data analysis. I focus on extracting meaningful insights from complex data and transforming those insights into innovative applications that solve real-world problems.
+👋 Hello! I’m **Sercan Teyhani** – Passionate about Data Science, Machine Learning, and Generative AI
+
+Hi! I’m **Sercan Teyhani**, an aspiring **Data Scientist** passionate about machine learning, natural language processing, generative AI, and data analysis. I specialize in extracting meaningful insights from complex data and transforming those insights into innovative, real-world applications that leverage the power of generative AI to create intelligent and adaptive solutions.
+
 
 This GitHub profile showcases my skills and problem-solving approach through various projects. I am especially interested in pursuing a career in Data Science and Machine Learning in Germany, and I believe the skills I demonstrate here will add valuable contributions to Germany’s tech ecosystem.
 
 ---
 
 📫 **Contact:**  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Medium: [Your Medium Profile Link]  
-- Email: [Your Email Address]
+- LinkedIn: [www.linkedin.com/in/sercan-teyhani-140b57295](https://www.linkedin.com/in/sercan-teyhani-140b57295)  
+- Medium: [Your Medium Profile Link](https://medium.com/@sercanteyhani)  
+- Email: [sercanteyhani@gmail.com](mailto:sercanteyhani@gmail.com)  
 
 ---
 
