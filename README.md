@@ -9,7 +9,7 @@ This GitHub profile showcases my skills and problem-solving approach through var
 
 📫 **Contact:**  
 - LinkedIn: [www.linkedin.com/in/sercan-teyhani-140b57295](https://www.linkedin.com/in/sercan-teyhani-140b57295)  
-- Medium: [Your Medium Profile Link](https://medium.com/@sercanteyhani)  
+- Medium: [medium.com/@sercanteyhani](https://medium.com/@sercanteyhani)
 - Email: [sercanteyhani@gmail.com](mailto:sercanteyhani@gmail.com)  
 
 ---
