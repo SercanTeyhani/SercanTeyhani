@@ -21,8 +21,8 @@ In addition to exploratory data insights, YouBot features a conversational assis
 Technologies: Streamlit, Python, Pandas, Requests, TextBlob, VADER, SpaCy, NLTK, Gensim (LDA), BERTopic, Matplotlib, Seaborn, Plotly, LangChain, Google Gemini API, YouTube Data API v3  
 Highlights: Dual sentiment analysis, topic modeling (LDA & BERTopic), comment trend analysis, RAG-based AI chatbot
 
-Live Demo: [https://data-mentor.streamlit.app/](https://youbot.streamlit.app/)
-Medium Article: [https://medium.com/@sercanteyhani/from-linkedin-profiles-to-career-paths-an-llm-powered-recommendation-system-e2e2d9f22ed5](https://medium.com/@sercanteyhani/youbot-understanding-youtube-comments-and-chatting-intelligently-an-engineers-perspective-71fc82164a26) 
+  Live Demo: [https://data-mentor.streamlit.app/](https://youbot.streamlit.app/)
+  Medium Article: [https://medium.com/@sercanteyhani/from-linkedin-profiles-to-career-paths-an-llm-powered-recommendation-system-e2e2d9f22ed5](https://medium.com/@sercanteyhani/youbot-understanding-youtube-comments-and-chatting-intelligently-an-engineers-perspective-71fc82164a26) 
 
 
 3. 🩺 **Obesity Prediction Project**  
