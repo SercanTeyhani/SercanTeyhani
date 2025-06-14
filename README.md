@@ -20,8 +20,7 @@ A Streamlit-powered web application designed to help users analyze YouTube video
 In addition to exploratory data insights, YouBot features a conversational assistant powered by Google's Gemini 1.5 Flash model, integrated with a Retrieval-Augmented Generation (RAG) pipeline.
 Technologies: Streamlit, Python, Pandas, Requests, TextBlob, VADER, SpaCy, NLTK, Gensim (LDA), BERTopic, Matplotlib, Seaborn, Plotly, LangChain, Google Gemini API, YouTube Data API v3  
 Highlights: Dual sentiment analysis, topic modeling (LDA & BERTopic), comment trend analysis, RAG-based AI chatbot  
-Live Demo: https://youbot.streamlit.app/
-
+Live Demo: https://youbot.streamlit.app/ 
 Medium Article: https://medium.com/@sercanteyhani/youbot-understanding-youtube-comments-and-chatting-intelligently-an-engineers-perspective-71fc82164a26
 
 3. 🩺 **Obesity Prediction Project**  
