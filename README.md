@@ -1,6 +1,6 @@
 👋 Hello! I’m **Sercan Teyhani** – Passionate about Data Science, Machine Learning, and Generative AI
 
-I'm an aspiring Data Scientist passionate about machine learning, natural language processing, SQL, Python, Generative AI, and data analysis. I focus on extracting meaningful insights from complex data and transforming those insights into innovative, real-world applications that leverage the power of generative AI to create intelligent and adaptive solutions.
+I'm an aspiring Data Scientist passionate about Machine Learning, Natural Language Processing, SQL, Python, Generative AI, and Data Analysis. I focus on extracting meaningful insights from complex data and transforming those insights into innovative, real-world applications that leverage the power of generative AI to create intelligent and adaptive solutions.
 
 This GitHub profile showcases my skills and problem-solving approach through various projects. I am especially interested in pursuing a career in Data Science and Machine Learning in Germany. Additionally, I am curious about cloud technologies and eager to learn more in this area. I believe the skills I demonstrate here will add valuable contributions to Germany’s tech ecosystem.
 
